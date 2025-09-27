@@ -1,0 +1,2 @@
+﻿50909
+/Users/home/Desktop/Godot_mono.app/Contents/MacOS/Godot
